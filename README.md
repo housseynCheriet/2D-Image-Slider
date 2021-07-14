@@ -7,4 +7,4 @@
 </h3>
 # DEMO
 
-[https://vercel.com/housseyncheriet/2d-image-slider](https://vercel.com/housseyncheriet/2d-image-slider)
+[https://2d-image-slider.vercel.app](https://2d-image-slider.vercel.app)
